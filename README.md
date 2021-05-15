@@ -2,6 +2,7 @@
 
 #### During this course I learned advanced python subjects such as:
 - Object Oriented Thinking
+- Usigng Python Data Structures
 - Networking
 - Writing decorators
 - Graphics and Pygame
