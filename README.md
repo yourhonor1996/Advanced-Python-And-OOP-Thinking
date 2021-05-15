@@ -1,4 +1,4 @@
-# Advanced Python And Object-Oriented Thinking Cerficification
+# Advanced Python And Object-Oriented Thinking Certification
 
 #### During this course I learned advanced python subjects such as:
 - Object Oriented Thinking
